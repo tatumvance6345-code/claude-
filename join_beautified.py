@@ -5,8 +5,8 @@ from pathlib import Path
 
 FILENAME = "幼儿园+艺术+《藁城宫灯》+说课课件（美化版）.pptx"
 PARTS = ["courseware-beautified.pptx.part0", "courseware-beautified.pptx.part1"]
-SIZE = 149180848
-SHA256 = "46adedf625e06d158cad8f8476768c2c0f6417a445dcb0c61809b8bf038cd641"
+SIZE = 149180781
+SHA256 = "7aad71f2bf39b9501e1cf090115290b81d02de20fedae2ec42055ea2714a3de7"
 
 
 def digest(path):
